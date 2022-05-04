@@ -4,7 +4,7 @@
 
 ## Divisão dos projetos
 
-    Foi dividido em dus pasta. A VemSerDev que possui o projeto igual que foi passado nas aulas e na pasta VemSerDev_versão com modificação onde foi acrescidas algumas modificações.
+    Foi dividido em duas pastas. A VemSerDev que possui o projeto igual que foi passado nas aulas e na pasta VemSerDev_versão com modificação onde foi acrescidas algumas modificações.
 
 ### Modificações em VemSerDev_versão com modificação
 
