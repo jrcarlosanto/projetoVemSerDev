@@ -1,0 +1,17 @@
+.produto__edit{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 8px;
+}
+
+.produto__campo{
+    display: grid;
+    grid-template-columns: 30% 1fr;
+}
+
+.editar__btn{
+    /*width: 100%;*/
+    /*align-self: flex-end;*/
+    align-self: flex-start;
+}

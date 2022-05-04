@@ -1,0 +1,31 @@
+.form__login{
+    position: relative;
+}
+
+.title__login{
+    position: absolute;
+    left: 47%;
+    margin-top: 180px;
+}
+
+.image__fundo{
+    max-width: 120%;
+    height: 100vh; 
+    transform: rotate(180deg);
+    position: relative;
+    float: left;
+}
+
+.image__logo{
+ position: absolute;
+ left: 30%;
+ top: 25%;
+ width: 60%;
+}
+
+#basic{
+    margin-top: 290px;
+    position: absolute;
+    left: 9,5%;
+    width: 700px;
+}

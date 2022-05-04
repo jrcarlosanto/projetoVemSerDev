@@ -1,0 +1,19 @@
+.produto__container{
+    width: 100%;
+    max-width: 1200px;
+    padding: 16px;
+}
+
+.produto__card__container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 16px;
+}
+
+.loading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
