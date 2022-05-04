@@ -22,7 +22,7 @@
 
 ## Configuração para o back e front
 
-### npm intalll
+### npm install
 
 #### Instalando as depedências.
 
