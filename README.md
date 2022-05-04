@@ -39,8 +39,8 @@
 
 ### 3 Iniciar a aplicação
 
-#### 1 npm run start:dev para inciar o back-end
+#### npm run start:dev para inciar o back-end
 
-#### 2 npm start para inciar o fornt-end
+#### npm start para inciar o fornt-end
 
-#### 3 No browser na aplicação VemSerDev_versão com modificação no front-end o endereço que deve ser colocado é http://localhost:3000/login ao iniciar a aplicação
+#### No browser na aplicação VemSerDev_versão com modificação no front-end o endereço que deve ser colocado é http://localhost:3000/login ao iniciar a aplicação
