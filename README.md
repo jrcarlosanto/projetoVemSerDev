@@ -10,10 +10,10 @@
 
 #### Back-End
 
-##### 1 Acrescentando a entidade users
-##### 2 Acrescentando um tratamento generico para exception
-##### 3 Acrescentando service e controller para autenticação do usuário na nossa aplicação
-##### 4 Acrescimo de criptografia bcryptjs para as senhas
+##### 1 Foi acrescentado a entidade users
+##### 2 Foi acrescentado um tratamento generico para exception
+##### 3 Foram acrescentados o service e controller para autenticação do usuário na nossa aplicação
+##### 4 Foi acrescentado a criptografia bcryptjs para as senhas
 
 #### Front-End
 
@@ -28,7 +28,7 @@
 
 ### 2 Criar arquivo .env
 
-#### Criar um arquivo .env para o banck-end na raiz do projeto com a configuração do banco de dados relacional exem ploPostgreSQL
+#### Criar um arquivo .env para o back-end na raiz do projeto com a configuração do banco de dados relacional exem ploPostgreSQL
 
 ![plot](/img-README/.env-back-end.png)
 
@@ -37,10 +37,10 @@
 ![plot](/img-README/.env-front-end.png)
 
 
-### 3 Iniciar a aplicação
+### 3 Comandos para iniciar a aplicação
 
 #### npm run start:dev para inciar o back-end
 
-#### npm start para inciar o fornt-end
+#### npm start para inciar o front-end
 
 #### No browser na aplicação VemSerDev_versão com modificação no front-end o endereço que deve ser colocado é http://localhost:3000/login ao iniciar a aplicação
