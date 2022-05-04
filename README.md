@@ -1,4 +1,4 @@
-#Projeto de conclusão do curso Vem Ser Dev
+# Projeto de conclusão do curso Vem Ser Dev
 
     O projeto proposto consiste em aplicaçao com front-end feito em REACT e back-end feito com NESTJS.
 
