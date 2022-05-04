@@ -28,7 +28,7 @@
 
 ### 2 Criar arquivo .env
 
-#### Criar um arquivo .env para o back-end na raiz do projeto com a configuração do banco de dados relacional exem ploPostgreSQL
+#### Criar um arquivo .env para o back-end na raiz do projeto com a configuração do banco de dados relacional por exemplo PostgreSQL
 
 ![plot](/img-README/.env-back-end.png)
 
