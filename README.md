@@ -30,11 +30,11 @@
 
 #### Criar um arquivo .env para o back-end na raiz do projeto com a configuração do banco de dados relacional por exemplo PostgreSQL
 
-![plot](/img-README/.env-back-end.png)
+![plot](/.env-back-end.png)
 
 #### Criar um arquivo .env para o front-end na raiz do projeto com a configuraçao de qual url o back esta rodando
 
-![plot](/img-README/.env-front-end.png)
+![plot](/.env-front-end.png)
 
 
 ### 3 Comandos para iniciar a aplicação
