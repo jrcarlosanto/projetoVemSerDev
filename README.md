@@ -22,13 +22,13 @@
 
 ## Configuração para o back e front
 
-### npm install
+### 1 npm install
 
 #### Instalando as depedências.
 
-### Criar arquivo .env
+### 2 Criar arquivo .env
 
-#### Criar um arquivo .env para o banck-end na raiz do projeto com a configuração do banco de dados relacional PostgreSQL
+#### Criar um arquivo .env para o banck-end na raiz do projeto com a configuração do banco de dados relacional exem ploPostgreSQL
 
 ![plot](/img-README/.env-back-end.png)
 
@@ -37,10 +37,10 @@
 ![plot](/img-README/.env-front-end.png)
 
 
-### Iniciar a aplicação
+### 3 Iniciar a aplicação
 
-#### npm run start:dev para inciar o back-end
+#### 1 npm run start:dev para inciar o back-end
 
-#### npm start para inciar o fornt-end
+#### 2 npm start para inciar o fornt-end
 
-#### No browser na aplicação VemSerDev_versão com modificação no front-end o endereço que deve ser colocado é http://localhost:3000/login ao iniciar a aplicação
+#### 3 No browser na aplicação VemSerDev_versão com modificação no front-end o endereço que deve ser colocado é http://localhost:3000/login ao iniciar a aplicação
